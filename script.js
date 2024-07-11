@@ -4,7 +4,7 @@ const portfolio = document.getElementById("portfolio")
 const portfoliobtn = document.getElementById("portfolio-btn")
 // console.log(portfoliobtn)
 const skills = document.getElementById("skills")
-// console.log(skills)
+console.log(skills);    
 const skillsbtn = document.getElementById("skills-btn")
 // console.log(skillsbtn);
 
